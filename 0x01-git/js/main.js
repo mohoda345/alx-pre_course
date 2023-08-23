@@ -1,1 +1,0 @@
-moooo index.js
